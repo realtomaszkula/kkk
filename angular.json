@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "ng-on-init": "apps/ng-on-init",
+    "ng-on-init-e2e": "apps/ng-on-init-e2e"
+  }
+}
